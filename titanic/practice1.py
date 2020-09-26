@@ -1,3 +1,6 @@
+"""
+性別、乗り込み地点、料金、年齢から学習
+"""
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
